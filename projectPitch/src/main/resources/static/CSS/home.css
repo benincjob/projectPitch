@@ -1,0 +1,40 @@
+@charset "ISO-8859-1";
+
+.arvest{
+	float: center;
+	height: 300px;
+	width: 800px;
+}
+
+h4{
+	font-family: sans;
+	color: brown;
+	font-size: 1.6em;
+	margin-bottom: 12px;
+	margin-top:12px;
+	text-decoration:underline dotted indigo;
+}
+.statement{
+	font-family: verdana;
+	font-size: 1em;
+	
+}
+.solution{
+	font-family: verdana;
+	font-size: 1em;
+}
+
+.content-tech{
+	font-family: verdana;
+	font-size: 1em;
+	
+}
+.content-sme{
+	font-family: verdana;
+	font-size: 1em;
+}
+
+body{
+	
+	background-color:pink
+}
